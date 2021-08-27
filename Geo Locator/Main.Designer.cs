@@ -47,6 +47,7 @@ namespace Geo_Locator
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label1.Location = new System.Drawing.Point(268, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(14, 13);
@@ -58,6 +59,7 @@ namespace Geo_Locator
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label2.Location = new System.Drawing.Point(252, 9);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(10, 13);
