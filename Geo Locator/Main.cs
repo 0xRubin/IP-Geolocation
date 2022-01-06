@@ -56,7 +56,7 @@ namespace Geo_Locator
 
         private void button2_Click(object sender, EventArgs e)
         {
-            var url = "https://discord.gg/xP6fw8h93P";
+            var url = "https://github.com/0xRubin";
             var process = new System.Diagnostics.ProcessStartInfo();
             process.UseShellExecute = true;
             process.FileName = url;
